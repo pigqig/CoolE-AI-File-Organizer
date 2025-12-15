@@ -27,19 +27,19 @@
 
 ### 1. 簡潔的主介面
 系統就緒，等待任務。
-![主介面](./screenshots/main_interface.png)
+![主介面](./img/1.png)
 
 ### 2. 拖曳檔案進行分析
 支援一次拖入大量混雜的檔案（圖片、文件、執行檔）。
-![拖曳檔案](./screenshots/drag_drop.png)
+![拖曳檔案](./img/2.png)
 
 ### 3. AI 批次運算中
 即時顯示處理進度與 AI 分析狀態。
-![AI分析中](./screenshots/processing.png)
+![AI分析中](./img/3.png)
 
 ### 4. 自動歸檔完成
 自動建立分類資料夾（如：應用程式、多媒體、專案開發）並完成移動。
-![完成歸檔](./screenshots/result_log.png)
+![完成歸檔](./img/4.png)
 
 *(註：請確保專案根目錄下有 `screenshots` 資料夾並放入對應截圖)*
 
