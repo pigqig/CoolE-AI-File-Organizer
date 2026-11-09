@@ -87,6 +87,6 @@
 ---
 
 <p align="center">
-  <strong>Created by Joseph</strong><br>
+  <strong>Created by Lee</strong><br>
   🌐 <a href="http://ourcoolidea.com">酷意 AI 平台 (ourcoolidea.com)</a>
 </p>
